@@ -4,7 +4,7 @@ title: This is my first post
 ---
 
 # Heading
-## Sub heading
+## Subheading
 
 Testing testing
 
