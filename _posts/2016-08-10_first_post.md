@@ -6,6 +6,8 @@ title: This is my first post
 #Heading
 ##Sub heading
 
+Testing testing
+
 **Bold** text
 
 *Italic* text
