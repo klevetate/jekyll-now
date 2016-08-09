@@ -3,8 +3,8 @@ layout: post
 title: This is my first post
 ---
 
-#Heading
-##Sub heading
+# Heading
+## Sub heading
 
 Testing testing
 
