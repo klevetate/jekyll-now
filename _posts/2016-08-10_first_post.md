@@ -13,6 +13,6 @@ title: This is my first post
 - list item one
 - list item two
 
-1 numbered list
-2 numbered list
-3 numbered list
+1. numbered list
+2. numbered list
+3. numbered list
